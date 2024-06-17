@@ -1,0 +1,3 @@
+/home/admin_rasp/Desktop/KPL_software/KPL_data_handler/build/CMakeFiles/KPL_data_handler.dir
+/home/admin_rasp/Desktop/KPL_software/KPL_data_handler/build/CMakeFiles/edit_cache.dir
+/home/admin_rasp/Desktop/KPL_software/KPL_data_handler/build/CMakeFiles/rebuild_cache.dir
